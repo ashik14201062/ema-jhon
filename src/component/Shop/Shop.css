@@ -1,0 +1,17 @@
+.shop-container {
+    display: flex;
+
+
+}
+
+.products-container {
+    width: 80%;
+    margin: 10px;
+    padding: 20px;
+    margin-right: 10px;
+    border-right: 1px solid gray;
+}
+.cart-container {
+  
+    color: indigo;
+}
